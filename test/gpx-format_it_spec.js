@@ -1,5 +1,5 @@
-const gpx = require('../index.js');
-const assert = require('assert');
+import gpx from '../index.js';
+import assert from 'assert';
 
 describe('Format gps data as gpx', () => {
     it('should render an empty gpx file without track info correctly', () => {

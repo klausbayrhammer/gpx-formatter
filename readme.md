@@ -5,7 +5,7 @@ This module will output correctly formatted gpx files
 ## Code Example
 
 ```js
-const gpx = require('gpx')
+import gpx from 'gpx'
 const res = gpx({name:'Example GPX Document', track: [
     {lat:'47.644548', long:'-122.326897', time:'2009-10-17T18:37:26Z'},
     {lat:'47.644548', long:'-122.326897', time:'2009-10-17T18:37:31Z'},

@@ -1,5 +1,5 @@
-const assert = require('assert');
-const track = require('../track');
+import assert from 'assert';
+import track from '../track';
 
 describe('render track', () => {
     const trackSegmentFormatter = data => data ? '<trkseg></trkseg>' : '';

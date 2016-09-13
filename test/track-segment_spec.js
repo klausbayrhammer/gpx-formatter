@@ -1,5 +1,5 @@
-const assert = require('assert');
-const tracksegment = require('../track-segment');
+import assert from 'assert';
+import tracksegment from '../track-segment';
 
 describe('render track segment', () => {
     it('should not format track segments without trackpoints', () => {

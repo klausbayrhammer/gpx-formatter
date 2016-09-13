@@ -1,5 +1,5 @@
-const trackFormatter = require('./track');
-const trackSegmentFormatter = require('./track-segment');
+import trackFormatter from './track';
+import trackSegmentFormatter from './track-segment';
 
 
 module.exports = data => {
