@@ -1,0 +1,13 @@
+{
+  "name": "gpx-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Klaus Bayrhammer",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.0.2"
+  }
+}
