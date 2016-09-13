@@ -1,5 +1,5 @@
 import assert from 'assert';
-import track from '../track';
+import track from '../src/track';
 
 describe('render track', () => {
     const trackSegmentFormatter = data => data ? '<trkseg></trkseg>' : '';

@@ -15,6 +15,13 @@ assert.equal(res,
 
 ```
 
+## Run tests
+
+Execute `npm run test`
+
+## Build the bundle
+Execute `npm run build`
+
 ## License
 
 MIT

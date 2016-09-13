@@ -1,4 +1,4 @@
-import gpx from '../index.js';
+import gpx from '../src/index.js';
 import assert from 'assert';
 
 describe('Format gps data as gpx', () => {

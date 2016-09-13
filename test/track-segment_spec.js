@@ -1,5 +1,5 @@
 import assert from 'assert';
-import tracksegment from '../track-segment';
+import tracksegment from '../src/track-segment';
 
 describe('render track segment', () => {
     it('should not format track segments without trackpoints', () => {
